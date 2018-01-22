@@ -1,8 +1,8 @@
 class Fool < Formula
     desc "A powerful git terminal interface which focuses on usability "
     homepage "https://github.com/spacekookie/fool"
-    url "https://github.com/spacekookie/fool/releases/download/v0.2.0/fool-v0.2.0-x86_64-apple-darwin.tar.gz"
-    sha256 "539bbbd0e15344e88b835ab0adada59a55655b819ddbc2df67abb84d3b0b7242"
+    url "https://github.com/spacekookie/fool/releases/download/v0.2.1/fool-v0.2.1-x86_64-apple-darwin.tar.gz"
+    sha256 "8107fb4a629c20248c751c56d4c5d77cbb13db10b9b1217b9cb0a3e90f5176be"
   
     def install
         
